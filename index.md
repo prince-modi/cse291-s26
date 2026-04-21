@@ -10,7 +10,7 @@ seo:
   name: CSE 291A/DSC 291 Spring 2026
 ---
 
-# CSE 291A/DSC 291: Data Systems for Machine Learning
+# CSE 291A/DSC 291: Deep Learning Systems
 
 {: .mb-2 }
 Instructor: Hao Zhang, UC San Diego, Spring 2026
