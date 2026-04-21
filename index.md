@@ -21,7 +21,7 @@ Instructor: Hao Zhang, UC San Diego, Spring 2026
 ## Announcements
 
 
-{% assign announcements = site.announcements | where: 'lang', page.lang | reverse %}
+{% assign announcements = site.announcements | where: 'lang', page.lang | sort: 'date' | reverse %}
 {% for announcement in announcements limit:1 %}
 {{ announcement }}
 {% endfor %}

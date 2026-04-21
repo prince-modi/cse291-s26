@@ -11,7 +11,7 @@ description: 课程公告列表。
 
 下面列出本课程的全部公告内容。
 
-{% assign announcements = site.announcements | where: 'lang', page.lang | reverse %}
+{% assign announcements = site.announcements | where: 'lang', page.lang | sort: 'date' | reverse %}
 {% for announcement in announcements %}
   {{ announcement }}
 {% endfor %}
