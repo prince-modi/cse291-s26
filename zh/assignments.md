@@ -11,17 +11,19 @@ lang_ref: assignments
 # 编程作业（PA）
 
 PA1：Automatic Differentiation and Transformers
-- 发布时间：待定
-- Starter Code：待定
+- 发布时间：2026年4月5日
+- Starter Code：[Github](https://github.com/hao-ai-lab/cse-dsc291-s26-pa)
 - 请记住：**不要**把你的解答放到公开仓库中！
-- 截止日期：待定
+- 截止日期：2026年4月22日 23:59
+- 提交到 Gradescope
+
+PA2：Kernel Optimization and Tensor Parallel Communication
+- Starter Code：[Github](https://github.com/hao-ai-lab/cse-dsc291-s26-pa/tree/main/pa2)
+- 请记住：**不要**把你的解答放到公开仓库中！
+- 截止日期：2026年5月5日 23:59
 - 提交到 Gradescope
 
 <!--
-PA2：Matmul Kernel Optimization & Tensor Parallel Communication
-- 发布时间：待定
-- 截止日期：待定
-
 PA3：MoE, Scaling Law, Speculative Decoding, and Future of LLMs
 - 发布时间：待定
 - 截止日期：待定

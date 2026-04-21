@@ -15,12 +15,13 @@ PA1: Automatic Differentiation and Transformers
 - Due Date: Apr 22, 2026, 23:59
 - Upload to Gradescope
 
-<!--
-PA2: Matmul Kernel Optimization & Tensor Parallel Communication
-- Release Date: TBD
-- Starter code: TBD
-- Due Date: TBD
+PA2: Kernel Optimization and Tensor Parallel Communication
+- Starter Code: [Github](https://github.com/hao-ai-lab/cse-dsc291-s26-pa/tree/main/pa2)
+- Remember do **not** use a public repo for your solution!
+- Due Date: May 5, 2026, 23:59
+- Upload to Gradescope
 
+<!--
 PA3: MoE, Scaling Law, Speculative Decoding, and Future of LLMs
 - Release Date: TBD
 - Starter code: TBD
