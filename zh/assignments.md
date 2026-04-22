@@ -18,9 +18,10 @@ PA1：Automatic Differentiation and Transformers
 - 提交到 Gradescope
 
 PA2：Kernel Optimization and Tensor Parallel Communication
+- 发布时间：2026年4月21日
 - Starter Code：[Github](https://github.com/hao-ai-lab/cse-dsc291-s26-pa/tree/main/pa2)
 - 请记住：**不要**把你的解答放到公开仓库中！
-- 截止日期：2026年5月5日 23:59
+- 截止日期：2026年5月8日 23:59
 - 提交到 Gradescope
 
 <!--

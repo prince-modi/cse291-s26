@@ -16,9 +16,10 @@ PA1: Automatic Differentiation and Transformers
 - Upload to Gradescope
 
 PA2: Kernel Optimization and Tensor Parallel Communication
+- Release Date: Apr 21, 2026
 - Starter Code: [Github](https://github.com/hao-ai-lab/cse-dsc291-s26-pa/tree/main/pa2)
 - Remember do **not** use a public repo for your solution!
-- Due Date: May 5, 2026, 23:59
+- Due Date: May 8, 2026, 23:59
 - Upload to Gradescope
 
 <!--
