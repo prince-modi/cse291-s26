@@ -5,7 +5,7 @@ status: Active
 ---
 
 April 21
-: **7**{: .label} Triton, graph optimization, memory
+: **7**{: .label} Triton, graph optimization
   : [Slides](assets/slides/4.21.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp26/cse291a_a00/7) &#8226; [Scribe Note]()
 : **Readings**{: .label .label-reading} **(Due 4/28)**
   * **Required**: [4.1 - TVM](https://www.usenix.org/conference/osdi18/presentation/chen), [4.2 - Triton](https://research.ibm.com/publications/triton-an-intermediate-language-and-compiler-for-tiled-neural-network-computations)
@@ -13,5 +13,5 @@ April 21
 
 
 April 23
-: **8**{: .label} Quantization Basics
+: **8**{: .label} Memory
   : [Slides](assets/slides/4.23.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp26/cse291a_a00/8) &#8226; [Scribe Note]()

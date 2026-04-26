@@ -5,7 +5,7 @@ status: Active
 ---
 
 April 28
-: **9**{: .label} Quantization Advance
+: **9**{: .label} Quantization
   : [Slides](assets/slides/4.28.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp26/cse291a_a00/9) &#8226; [Scribe Note]()
 : **Readings**{: .label .label-reading} **(Due 5/5)**
   * **Required**: [5.1 - Quantization Survey](https://huggingface.co/papers/2103.13630), [5.2 - Low-bit LLM Survey](https://arxiv.org/abs/2409.16694)
